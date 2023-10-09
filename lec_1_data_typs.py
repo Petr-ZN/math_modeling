@@ -16,4 +16,4 @@ print(type(a))
 
 print (type(True))
 
-print(type(None))
+print(type(None)) # None - пустое множество
