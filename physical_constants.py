@@ -1,0 +1,1 @@
+acceleration_of_free_fall = 9.80665
