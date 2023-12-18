@@ -8,5 +8,4 @@ def arithmetic_mean (a):
     print (sum/n)
 
 array = np.arange(10)
-print (array)
 arithmetic_mean(array)

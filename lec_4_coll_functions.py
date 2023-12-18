@@ -1,5 +1,5 @@
-from creating_a_function import mult_func
-from creating_a_function import print_func
+from lec_4_creating_a_function import mult_func
+from lec_4_creating_a_function import print_func
 
 tmp = mult_func(4)
 

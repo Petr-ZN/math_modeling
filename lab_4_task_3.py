@@ -6,8 +6,4 @@ def Energy (mass, height, speed):
     Ep = mass*g*height
     print (Ek+Ep)
 
-mass = 10
-height = 8
-speed = 5
-
-Energy (mass, height, speed)
+Energy (10, 8, 5)

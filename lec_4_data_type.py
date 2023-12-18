@@ -27,5 +27,5 @@ print (z+w)
 s = 'hello'
 print(s[0])
 
-s[0] = 'H'
-print(s)
+#Dict
+d = {'al':4, 4:'al'}
