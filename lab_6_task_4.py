@@ -44,7 +44,7 @@ def fun_4 (k):
  
     
 if __name__ == '__main__':
-#    fun_1(0.1)
-#    fun_2(1)
-#    fun_3(1)
-    fun_4(0.3)
+    fun_1(0.1)
+    fun_2(1)
+    fun_3(1)
+    fun_4(2)

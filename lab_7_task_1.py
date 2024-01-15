@@ -18,5 +18,5 @@ def astroida (r = 1):
     plt.plot(x, y)
     plt.show()
 if __name__ == '__main__':
-    #cicloida(2)
-    astroida(-1)
+    cicloida(2)
+    astroida()
