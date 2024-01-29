@@ -17,5 +17,6 @@ def elips (radius=10, a = 10, b = 5):
     
     plt.show()
     
+    
 if __name__ == '__main__':
 	elips()
