@@ -20,7 +20,7 @@ def heart (t):
 
 ani = FuncAnimation(fig, # Стандартный вызов пространства
                     heart, # Вызов функции подстановки координат
-                    frames=np.arange(0, 2*np.pi, 0.01),
+                    frames=np.arange(0, 2*np.pi, 0.05),
                     interval=30 # Интервал между кадрами,
                     )            # по умолчанию 200 милисекунд
 
